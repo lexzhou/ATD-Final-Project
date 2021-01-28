@@ -1,4 +1,4 @@
-# https://www.earthdatascience.org/courses/use-data-open-source-python/intro-to-apis/calculate-tweet-word-frequencies-in-python/
+# This is the server program of Twitter Analysis API
 ### Import the libraries and adequate setting
 
 
