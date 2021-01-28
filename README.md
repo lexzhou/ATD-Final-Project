@@ -1,4 +1,4 @@
-# ATD-Final-Project 
+# ATD-DRAE_TWITTER-API
 
 ## Introduction
 For the time being, billions of users use Twitter, generating more than 12 Terabytes of data daily since 2018. In recent years, many fields such as business, industries, governments, as well as scientists have been leveraging this vast amount of non-structured data producing intriguing investigations and helpful results to comprehend social interactions patterns between the users of the app.
