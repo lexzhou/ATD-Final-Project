@@ -9,7 +9,7 @@ Utilizing web scraping, API of Twitter, NLP (Natural Language Processing) techni
 Another additional aim that we have is to provide another API with the functions and methods of DRAE (Dictionary of Spanish Real Academy) which currently does not exist in Python. For example, we can translate and acquire the words' definitions of different languages. With this API, we seek to enrich the results obtained from Twitter information analysis (e.g. translate, obtain the definitions, etc.), adding as additional elements of JSON/XML objects.
 
 ## Results and the package’s methods.
-For this work, we created two APIs: (1) API of DRAE, and (2) API of Twitter analysis. In file `Twitter_Analysis_API.ipynb` describes the codes of Twitter Analysis API and in the file `DRAE_API.ipynb` describes the codes of DRAE API. To see practical examples with Python codes, please view the tutorials `Twitter_Analysis.ipynb` and `DRAE_Tutorial.ipynb`.
+For this work, we created two APIs: (1) API of DRAE, and (2) API of Twitter analysis. In file `Twitter_Analysis_API.py` describes the codes of Twitter Analysis API and in the file `DRAE_API.py` describes the codes of DRAE API. To see practical examples with Python codes, please view the tutorials `Twitter_Analysis.ipynb` and `DRAE_Tutorial.ipynb`.
 
 ## Limitations and possible future study
 **Limitation in extracting Twitter between a specific time range**: due to the last update of the API that occurred two months ago, which no longer allows extracting tweets from a trending topic within a specific time range. One possible solution might be extracting a large number of tweets and filter them by the publish date.
