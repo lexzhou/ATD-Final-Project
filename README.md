@@ -20,7 +20,7 @@ For this work, we created two APIs: (1) API of DRAE, and (2) API of Twitter anal
 
 **Non-existent/innovative API development**: Expand and provide API about DRAE and NLP analysis which comprise more complex and friendly methods that allow parsing the information stored in Twitter, not only for skilled people who use Python or other programming language but also citizens.
 
-#### *This is only a prototype version of our APIs, still need many refinement. What's more, it will be interesting to expand more and publish new packages such as DRAE and text mining packages in near future.*
+#### *This is only a prototype version of our APIs, still need many refinement. What's more, it will be interesting to expand more and publish not only API but also new Python packages such as DRAE and text mining packages in near future.*
 
 ## The descriptions of the available files:
 
