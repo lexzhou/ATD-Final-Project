@@ -22,7 +22,7 @@ For this work, we created two APIs: (1) API of DRAE, and (2) API of Twitter anal
 
 ### This is only a prototype version of our APIs, still need many refinement. What's more, it will be interesting to expand more and publish new packages such as DRAE and text mining packages in near future.
 
-### The descriptions of the available files:
+## The descriptions of the available files:
 
 Twitter_Analysis_API.py --> Codes of Tweeter Analysis (TA) API
 
