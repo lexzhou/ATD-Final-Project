@@ -380,8 +380,6 @@ class BusquedaG():
         dicc = DRAE
         
         for txt in soup.find_all('a', href=True):
-            print('LINK:')
-            print(txt.get('href')[1:])
             word = dicc.exact(txt.get('href')[1:]) #Extracts the word 
             res[word.word()] = word.allIn() 
         return res
