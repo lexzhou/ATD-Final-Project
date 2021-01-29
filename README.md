@@ -16,7 +16,7 @@ For this work, we created two APIs: (1) API of DRAE, and (2) API of Twitter anal
 
 **Temporal limitation**: Utilize the multicore technique leveraging more CPU threads and/or distributed computing approach to improve time efficiency.
 
-**Expand the query options**: providing methods which allow the analysis of followers and the people who follow for a specific user, as well as other analyzes related to NLP and not only count the frequencies of words and bigrams (e.g. Network analysis, individual opinions regarding differences between different political parties, the evolution of opinions of Valencian citizens regarding COVID, etc).
+**Expand the query options**: providing methods which allow to analyze followers and the people who follow for a specific user, as well as other analyzes related to NLP and not only count the frequencies of words and bigrams (e.g. Network analysis, individual opinions regarding differences between different political parties, the evolution of opinions of Valencian citizens regarding COVID, etc).
 
 **Non-existent/innovative API development**: Expand and provide API about DRAE and NLP analysis which comprise more complex and friendly methods that allow parsing the information stored in Twitter, not only for skilled people who use Python or other programming language but also citizens.
 
