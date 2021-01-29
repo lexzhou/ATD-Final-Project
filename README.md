@@ -37,4 +37,5 @@ For this work, we created two APIs: (1) API of DRAE, and (2) API of Twitter anal
 ## Package' Status
 - Version: 0.0.1
 - Authors: Francisco Tomás García Ruiz (UPV), Lexin Zhou (UPV)
-- Maintainer: Lexin Zhou (UPV)
+- Maintainer: Francisco Tomás García Ruiz (UPV), Lexin Zhou (UPV)
+- Authorship: No competing interest between authors
