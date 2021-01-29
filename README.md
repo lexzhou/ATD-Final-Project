@@ -1,7 +1,7 @@
 # ATD-DRAE_TWITTER-API
 
 ## Introduction
-For the time being, billions of users use Twitter, generating more than 12 Terabytes of data daily since 2018. In recent years, many fields such as business, industries, governments, as well as scientists have been leveraging this vast amount of non-structured data producing intriguing investigations and helpful results to comprehend social interactions patterns between the users of the app.
+For the time being, billions of users use Twitter, generating more than 12 Terabytes of data daily since 2018. In recent years, many fields such as business, industries, governments, as well as scientists have been leveraging this vast amount of non-structured data producing intriguing investigations and helpful results to comprehend social interactions patterns.
 
 ## Objectives
 Utilizing web scraping, API of Twitter, NLP (Natural Language Processing) technics, and Python library Flask to provide a prototype of API which comprises an amicable environment for users (who speak English and/or Spanish) who are interested in analyzing social interactions patterns regarding distinct trending topics and social profile of whichever users in Twitter, regardless of the language. The output will be an object JSON or XML (using Python or Browser).
