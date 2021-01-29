@@ -24,14 +24,14 @@ For this work, we created two APIs: (1) API of DRAE, and (2) API of Twitter anal
 
 ## The descriptions of the available files:
 
-Twitter_Analysis_API.py --> Codes of Tweeter Analysis (TA) API
+`Twitter_Analysis_API.py` --> Codes of Tweeter Analysis (TA) API
 
-Twitter_Analysis.ipynb --> Tutorial of parsing data from the TA API in Jupyter Notebook format
+`Twitter_Analysis.ipynb` --> Tutorial of parsing data from the TA API in Jupyter Notebook format
 
-RAE.py --> RAE package created by the authors with similar methods and functions provided in https://www.rae.es/.
+`RAE.py` --> RAE package created by the authors with similar methods and functions provided in https://www.rae.es/.
 
-DRAE_API.py --> DRAE API which uses internally RAE.py package
+`DRAE_API.py` --> DRAE API which uses internally RAE.py package
 
-DRAE_Tutorial.ipynb --> Tutorial of parsing data from DRAE API in Jupyter Notebook format
+`DRAE_Tutorial.ipynb` --> Tutorial of parsing data from DRAE API in Jupyter Notebook format
 
 
