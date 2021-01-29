@@ -28,3 +28,10 @@ Twitter_Analysis_API.py --> Codes of Tweeter Analysis (TA) API
 
 Twitter_Analysis.ipynb --> Tutorial of parsing data from the TA API in Jupyter Notebook format
 
+RAE.py --> RAE package created by the authors with similar methods and functions provided in https://www.rae.es/.
+
+DRAE_API.py --> DRAE API which uses internally RAE.py package
+
+DRAE_Tutorial.ipynb --> Tutorial of parsing data from DRAE API in Jupyter Notebook format
+
+
