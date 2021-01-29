@@ -14,7 +14,7 @@ For this work, we created two APIs: (1) API of DRAE, and (2) API of Twitter anal
 ## Limitations and possible future development
 **Limitation in extracting Twitter between a specific time range**: due to the last update in the API of Twitter that occurred two months ago, which no longer allows extracting tweets from a trending topic within a specific time range. One possible solution might be extracting a large number of tweets and filter them by the publish date.
 
-**Temporal limitation**: We recommend to use the multicore technique using more CPU threads and/or distributed computing approach to improve time efficiency.
+**Temporal limitation**: Utilize the multicore technique leveraging more CPU threads and/or distributed computing approach to improve time efficiency.
 
 **Expand the query options**: providing methods which allow the analysis of followers and the people who follow for a specific user, as well as other analyzes related to NLP and not only count the frequencies of words and bigrams (e.g. Network analysis, individual opinions regarding differences between different political parties, the evolution of opinions of Valencian citizens regarding COVID, etc).
 
