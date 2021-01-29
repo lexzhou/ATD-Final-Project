@@ -11,7 +11,7 @@ Another additional aim that we have is to provide another API with the functions
 ## Results and the package’s methods.
 For this work, we created two APIs: (1) API of DRAE, and (2) API of Twitter analysis. In the file `Twitter_Analysis_API.py` describes the codes of Twitter Analysis API and in the file `DRAE_API.py` describes the codes of DRAE API which internally use a RAE package `RAE.py` created by the authors. To see practical examples with Python codes, please view the tutorials `Twitter_Analysis.ipynb` and `DRAE_Tutorial.ipynb`.
 
-## Limitations and possible future study
+## Limitations and possible future development
 **Limitation in extracting Twitter between a specific time range**: due to the last update of the API that occurred two months ago, which no longer allows extracting tweets from a trending topic within a specific time range. One possible solution might be extracting a large number of tweets and filter them by the publish date.
 
 **Temporal limitation**: We recommend to use the multicore technique using more CPU threads and/or distributed computing approach to improve time efficiency.
