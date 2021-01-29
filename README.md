@@ -34,4 +34,7 @@ For this work, we created two APIs: (1) API of DRAE, and (2) API of Twitter anal
 
 `DRAE_Tutorial.ipynb` --> Tutorial of parsing data from DRAE API in Jupyter Notebook format
 
-
+## Package' Status
+- Version: 0.0.1
+- Authors: Francisco Tomás García Ruiz (UPV), Lexin Zhou (UPV)
+- Maintainer: Lexin Zhou (UPV)
