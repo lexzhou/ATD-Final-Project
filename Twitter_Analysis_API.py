@@ -9,10 +9,10 @@ import collections
 import nltk                       # Natural Language Toolkit library (stopwords and bigrams)
 from nltk.corpus import stopwords # Import the set of stopwords
 
-consumer_key= 'wwIXVkskBYuCtiHXsPiy7OGNR'
-consumer_secret= 'eNHxydGwAUPbvjkku1hYyQNflZAn80CAbBnixtt68j4Rvug6LJ'
-access_token= '1347667572595040256-kxlChS2G6uE0arYcm2ujHmD5vbgmq0'
-access_token_secret= '0FKZyO4dy9lBr1P8fU23uiTE0Bm4L2TFfl803JtUW9NG7'
+consumer_key= '******'
+consumer_secret= '******'
+access_token= '*******'
+access_token_secret= '*******'
 
 auth = tw.OAuthHandler(consumer_key, consumer_secret)
 auth.set_access_token(access_token, access_token_secret)
